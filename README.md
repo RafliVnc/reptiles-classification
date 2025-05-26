@@ -12,7 +12,6 @@ Reptil merupakan bagian penting dari ekosistem karena berperan sebagai predator 
 
 ## Target Sistem
 - Mengenali dan membedakan 10 jenis reptil dari gambar, yaitu: Bunglon, Buaya, Kodok, Tokek, Iguana, Kadal, Salamander, Ular, Katak, dan Kura-kura.
-- Mendeteksi objek motor dari citra
 
 ## Dataset
 - https://www.kaggle.com/datasets/vencerlanz09/reptiles-and-amphibians-image-dataset/data?select=Toad
