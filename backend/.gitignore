@@ -1,0 +1,67 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lingkungan virtual
+env/
+venv/
+ENV/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# File konfigurasi editor/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# File OS
+.DS_Store
+Thumbs.db
+
+# File log atau debug
+*.log
+
+# File cache
+*.sqlite3
+*.db
+*.tmp
+*.bak
+.cache/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# File testing
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Notebook checkpoint
+.ipynb_checkpoints/
+
+# Jupyter kernel
+*.ipynb
+
+# dotenv files (berisi secret/env vars)
+.env
+.env.*
+
+# Paket hasil build/distribusi
+build/
+dist/
+*.egg
+*.whl
+
+# Coverage report
+htmlcov/
+coverage.xml
+
+# Profiling data
+*.prof
+*.pstat
+*.dat
